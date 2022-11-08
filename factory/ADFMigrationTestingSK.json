@@ -1,0 +1,9 @@
+{
+	"name": "ADFMigrationTestingSK",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "629e84ec-87e2-459b-8a46-39e9df3c2498",
+		"tenantId": "659e2994-65a5-49e4-b304-f9773e8307c4"
+	}
+}
