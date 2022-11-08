@@ -8,8 +8,12 @@
 		"annotations": [],
 		"type": "Excel",
 		"typeProperties": {
+			"sheetName": "Sheet1",
 			"location": {
-				"type": "AzureBlobStorageLocation"
+				"type": "AzureBlobStorageLocation",
+				"fileName": "Mortgage_compare.xlsx",
+				"folderPath": "China",
+				"container": "adfdemo"
 			}
 		},
 		"schema": []
